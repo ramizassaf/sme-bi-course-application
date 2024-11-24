@@ -22,19 +22,7 @@ I'm not an expert in editing my video, some fine tuning might be needed from you
 
 ### Step 2: Virtual Machine Exercises
 
-A virtual machine (VM) exercise requires learners to complete 3 - 6 actions. The two VM exercises that follow a demo screencast should cover software-related skills that are covered in the screencast. A virtual machine exercise consists of:
-
-- The measurable **learning objective** that this exercise assesses
-- A **context** that engages the learner and explains why they are doing this exercise.
-- 3 - 6 bulleted **instructions**
-- A **question** that assesses whether the instructions were properly followed.
-- Two workbook or report files:
-  - The **initial file**: what the learner will begin with
-  - The **solution file**: what a correct solution would look like after completing the instruction
-
-As an example, in our [Power BI and Tableau courses](https://learn.datacamp.com/courses?technologies=Tableau&technologies=Power%20BI), you will be able to find a many virtual machine exercises that test a variety of skills.
-
-To create your two VM exercises, complete the template `vm-exercises.md`. 
+see the template `vm-exercises.md`. 
 
 
 
