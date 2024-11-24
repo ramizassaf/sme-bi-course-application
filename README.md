@@ -32,3 +32,7 @@ A virtual machine (VM) exercise requires learners to complete 3 - 6 actions. The
 As an example, in our [Power BI and Tableau courses](https://learn.datacamp.com/courses?technologies=Tableau&technologies=Power%20BI), you will be able to find a many virtual machine exercises that test a variety of skills.
 
 To create your two VM exercises, complete the template `vm-exercises.md`. 
+
+
+
+
